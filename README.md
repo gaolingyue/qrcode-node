@@ -16,5 +16,6 @@
     npm start
   
   #### !!! 在两个页面中的JS里更改myhost的值为你的服务器IP
+  ![Alt text](http://upload-images.jianshu.io/upload_images/6206743-46296482974a4362.gif?imageMogr2/auto-orient/strip "Optional title")
   
   在浏览器输入http://localhost/welcome.html 查看效果
